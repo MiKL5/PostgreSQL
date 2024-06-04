@@ -60,10 +60,5 @@ ___
 44. [La cascade d’intégrié référentielle](exercises/exercise44)  
 45. [L’identité avec les tables](exercises/exercise45)  
 46. [L’exploitation d’une séauence](exercises/exercise46)  
-47. [L’artchitecture de PostgreSQL](docs/architecture)
-48. [Lien entre répertoire et fichier](docs/architecture/linkBetweenDirectoryAndFile)
-49. [PSQL, le client indispensable](docs/architecture/psql)
-50. [Les fichiers de configuration](docs/architecture/configFiles)
-51. [Définition d’un cluster et d’un tablespace via Windows](docs/specificityOnTables/)
 
 <br><br><div align="center"><a href="docs/about"><img src="assets/elephant.jpg"></a></div>
