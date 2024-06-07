@@ -1,4 +1,4 @@
-# **PostgreSQL** <a href="../../"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"> </a>
+# **PostgreSQL** <a href="https://github.com/MiKL5/PostgreSQL"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"> </a>
 
 PostgreSQL, est un [système de gestion de base de données relationnel-objet](../ordbms) (SGBDRO) open source et gratuit. En d’autres termes, c’est un outil qui permet de stocker, organiser, manipuler et récupérer des données de manière efficace et structurée. Il se distingue par plusieurs caractéristiques clés :
 * Open source et gratuit  
@@ -50,4 +50,4 @@ PostgreSQL _bénéficie d’une communauté active_ et passionnée de développe
 
 En résumé, PostgreSQL est un SGBDRO open source, stable, flexible et riche en fonctionnalités, qui peut être utilisé pour un large éventail d’applications, des petites bases de données personnelles aux charges de travail critiques pour l’entreprise.
 
-<br><br><div align="center"><a href="../../"><img src="../../assets/elephant1.jpg"></a></div>
+<br><br><div align="center"><a href="https://github.com/MiKL5/PostgreSQL"><img src="../../assets/elephant1.jpg"></a></div>
