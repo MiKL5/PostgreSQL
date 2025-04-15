@@ -7,7 +7,7 @@ PostgreSQL, est un [système de gestion de base de données relationnel-objet](.
 * Stable et robuste  
   PostgreSQL est connu pour sa stabilité et sa fiabilité. Il est utilisé dans des applications critiques pour l’entreprise du monde entier et peut gérer des charges de travail importantes.  
 * Conformité et extensibilité SQL  
-  PostgreSQL prend en charge un large éventail de fonctionnalités SQL standard, ce qui facilite la migration à partir d’autres bases de données et la transition pour les développeurs familiers avec le langage SQL. De plus, il permet d’étendre le langage avec des fonctions et des types de données personnalisés, offrant une grande flexibilité dans le stockage et la manipulation des données.  
+  PostgreSQL prend en charge un large éventail de fonctionnalités SQL standard, ce qui facilite la migration à partir d’autres bases de données et la transition pour les développeurs familiers avec le [langage SQL](https://github.com/MiKL5/DS/tree/master/SQL). De plus, il permet d’étendre le langage avec des fonctions et des types de données personnalisés, offrant une grande flexibilité dans le stockage et la manipulation des données.  
 
 En plus des fonctionnalités standard d’un SGBDRO, PostgreSQL offre de nombreuses fonctionnalités avancées telles que :
 * La transaction ACID  
