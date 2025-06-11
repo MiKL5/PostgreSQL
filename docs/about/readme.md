@@ -50,11 +50,4 @@ PostgreSQL _bénéficie d’une communauté active_ et passionnée de développe
 
 En résumé, PostgreSQL est un SGBDRO open source, stable, flexible et riche en fonctionnalités, qui peut être utilisé pour un large éventail d’applications, des petites bases de données personnelles aux charges de travail critiques pour l’entreprise.
 
-<br><br><div align="center"><a href="https://github.com/MiKL5/PostgreSQL"><img src="../../assets/elephant1.jpg"></a>
-
-___
-## **🔗 Sujets connexes**</div>
-[SQL Server](https://github.com/MiKL5/TSQL)<a href="https://github.com/MiKL5/TSQL"><img src="https://github.com/MiKL5/TSQL/raw/master/assets/Microsoft_SQL_Server.svg" alt="PostgreSQL" align="left" height="20px"></a>  
-[MongoDB](https://github.com/MiKL5/MongoDB) <a href="https://github.com/MiKL5/MongoDB"><img src="https://github.com/MiKL5/Business_Intelligence/raw/master/assets/mongodb_original_logo_icon_146424.svg" align="left" height="20px"> </a>
-
-[Power BI](https://github.com/MiKL5/PowerBI) <a href="https://github.com/MiKL5/PowerBI"><img src="https://github.com/MiKL5/PowerBI/raw/master/assets/Power_BI.svg" alt="Power BI" align="left" height="20px"> </a>
+<br><br><div align="center"><a href="https://github.com/MiKL5/PostgreSQL"><img src="../../assets/elephant1.jpg"></a></div>

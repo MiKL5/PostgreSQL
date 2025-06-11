@@ -61,4 +61,11 @@ ___
 45. [L’identité avec les tables](exercises/exercise45)  
 46. [L’exploitation d’une séauence](exercises/exercise46)  
 
-<br><br><div align="center"><a href="docs/about"><img src="assets/elephant.jpg"></a></div>
+<br><br><div align="center"><a href="docs/about"><img src="assets/elephant.jpg"></a>
+
+___
+## **🔗 Sujets connexes**</div>
+[SQL Server](https://github.com/MiKL5/TSQL)<a href="https://github.com/MiKL5/TSQL"><img src="https://github.com/MiKL5/TSQL/raw/master/assets/Microsoft_SQL_Server.svg" alt="PostgreSQL" align="left" height="20px"></a>  
+[MongoDB](https://github.com/MiKL5/MongoDB) <a href="https://github.com/MiKL5/MongoDB"><img src="https://github.com/MiKL5/Business_Intelligence/raw/master/assets/mongodb_original_logo_icon_146424.svg" align="left" height="20px"> </a>
+
+[Power BI](https://github.com/MiKL5/PowerBI) <a href="https://github.com/MiKL5/PowerBI"><img src="https://github.com/MiKL5/PowerBI/raw/master/assets/Power_BI.svg" alt="Power BI" align="left" height="20px"> </a>
