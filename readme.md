@@ -65,7 +65,7 @@ ___
 
 ___
 ## **🔗 Sujets connexes**</div>
-[SQL Server](https://github.com/MiKL5/TSQL)<a href="https://github.com/MiKL5/TSQL"><img src="https://github.com/MiKL5/TSQL/raw/master/assets/Microsoft_SQL_Server.svg" alt="PostgreSQL" align="left" height="20px"></a>  
-[MongoDB](https://github.com/MiKL5/MongoDB) <a href="https://github.com/MiKL5/MongoDB"><img src="https://github.com/MiKL5/Business_Intelligence/raw/master/assets/mongodb_original_logo_icon_146424.svg" align="left" height="20px"> </a>
+[SQL Server](https://github.com/MiKL5/TSQL)<a href="https://github.com/MiKL5/TSQL"><img src="https://github.com/MiKL5/TSQL/raw/main/assets/Microsoft_SQL_Server.svg" alt="PostgreSQL" align="left" height="20px"></a>  
+[MongoDB](https://github.com/MiKL5/MongoDB) <a href="https://github.com/MiKL5/MongoDB"><img src="https://github.com/MiKL5/Business_Intelligence/raw/main/assets/mongodb_original_logo_icon_146424.svg" align="left" height="20px"> </a>
 
-[Power BI](https://github.com/MiKL5/PowerBI) <a href="https://github.com/MiKL5/PowerBI"><img src="https://github.com/MiKL5/PowerBI/raw/master/assets/Power_BI.svg" alt="Power BI" align="left" height="20px"> </a>
+[Power BI](https://github.com/MiKL5/PowerBI) <a href="https://github.com/MiKL5/PowerBI"><img src="https://github.com/MiKL5/PowerBI/raw/main/assets/Power_BI.svg" alt="Power BI" align="left" height="20px"> </a>
