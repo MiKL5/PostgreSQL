@@ -16,8 +16,8 @@ PostgreSQL est un [système de gestion de base de données relationnel-objet](do
 ___
 0. [Connaître la version de PostgreSQL](docs/version)
 ___
-1. [Créer / modification / supprimer d’une base de données](exercises/exercise1)
-2. [Créer / modification / supprimer d’une table](exercises/exercise2)
+1. [Créer / modifier  / supprimer d’une base de données](exercises/exercise1)
+2. [Créer / modifier  / supprimer d’une table](exercises/exercise2)
 3. [Insérer les données](exercises/exercise3)
 4. [Le `SELECT` et le `WHERE`](exercises/exercise4)
 5. [La mise à jour avec `UPDATE`](exercises/exercise5)
@@ -53,7 +53,7 @@ ___
 35. [L’agrégation dans les fonctions de partitionnement](exercises/exercise35)
 36. [Création, modification et suppression d’une vue](exercises/exercise36)
 37. [Définition et explication d’une procédure stockée](exercises/exercise37)
-38. [Qu’est-ce que le bloc de Structure](exercises/exercise38)
+38. [Qu’est-ce que le bloc de structure](exercises/exercise38)
 39. [Définition et explication d’un trigger](exercises/exercise39)
 40. [Les clés `UNIQUE` et `CHECK`](exercises/exercise40)
 41. [La contrainte `DEFAULT`](exercises/exercise41)
