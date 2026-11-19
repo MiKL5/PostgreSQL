@@ -1,4 +1,4 @@
-# **La jointure `CROSS JOIN`** <a href="../../"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"> </a>
+# **La jointure `CROSS JOIN`**<a href="https://github.com/MiKL5/PostgreSQL/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"></a>
 Cette jointure est plus rare.  
 
 La jointure croisée est le produit cartésien de deux tables. C’est-à-dire une multiplication généralisée.  

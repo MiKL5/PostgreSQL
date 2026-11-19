@@ -1,4 +1,4 @@
-# **La jointure `FULL (OUTER) JOIN`** <a href="../../"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"> </a>
+# **La jointure `FULL (OUTER) JOIN`**<a href="https://github.com/MiKL5/PostgreSQL/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"></a>
 Cette commande combine les résultats de 2 tables, puis les asociés grâce à une condition en remplissant  valeurs NULL si la condition n’est pas respectée.  
 _Donc tout est combiné, pour afficher toutes les correspondances entre les 2 tables._
 _L’ajout d’`IS NULL` ne combinera pas les données non concardantes._

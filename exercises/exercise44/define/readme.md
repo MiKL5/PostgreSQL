@@ -1,4 +1,4 @@
-# **La cascade d’intégrité référentielle**
+# **La cascade d’intégrité référentielle** <a href="https://github.com/MiKL5/PostgreSQL/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"></a>
 C’est un concept clé dans la gestion des bases de données relationnelles. Elle garantit que les relations entre les tables restent cohérentes lorsqu’il y a des modifications (insertion, mise à jour, suppression) des données. Voici les principaux types de cascades d’intégrité référentielle :
 
 1. **CASCADE** : Cette option indique que lorsqu’une ligne dans la table parent est supprimée ou mise à jour, les lignes correspondantes dans la table enfant doivent également être supprimées ou mises à jour. Cela garantit que les données orphelines ne sont pas laissées dans la table enfant.

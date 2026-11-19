@@ -1,4 +1,4 @@
-# **Créer une table à partr d’un `SELECT`** <a href="../../"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"> </a>
+# **Créer une table à partr d’un `SELECT`**<a href="https://github.com/MiKL5/PostgreSQL/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"></a>
 
 Cela est un clone.  
 Soit avec toutes les données, soit qu’avec la structure.

@@ -1,4 +1,4 @@
-# **L’agrégation dans les fonctions de partitionnement** <a href="../../"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"> </a>
+# **L’agrégation dans les fonctions de partitionnement**<a href="https://github.com/MiKL5/PostgreSQL/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"></a>
 Pour savoir combien il reste d’article, il faut une fonction de partitionnement, donc du T-SQL.
 ```sql
 -- Essayer avec 'SUM()'

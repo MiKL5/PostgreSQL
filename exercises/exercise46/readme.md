@@ -1,4 +1,4 @@
-# **Explication d’un séquence** <a href="../../"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"> </a>
+# **Explication d’un séquence** <a href="https://github.com/MiKL5/PostgreSQL/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"></a>
 C’est une liste ordonée d’entiers, sachant que les ordres de nombres sont importants dans la séquance.  
 E.g. [1 , 2 , 3] ou [3 , 2 , 1] sont différentes.  
 

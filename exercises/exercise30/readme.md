@@ -1,4 +1,4 @@
-# **La jointure `EXCEPT` vs `INTERSECT`** <a href="../../"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"> </a>
+# **La jointure `EXCEPT` vs `INTERSECT`**<a href="https://github.com/MiKL5/PostgreSQL/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"></a>
 Ce sont des vieux opérateurs avec Transact-SQL.  
 `INTERSECT` est une jointures interne, donc `INNER JOIN`.  
 ```sql

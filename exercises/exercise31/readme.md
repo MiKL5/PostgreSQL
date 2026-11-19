@@ -1,4 +1,4 @@
-Les fonctions de partitionnement `OVER` et `PARTITION BY` <a href="../../"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"> </a>
+Les fonctions de partitionnement `OVER` et `PARTITION BY`<a href="https://github.com/MiKL5/PostgreSQL/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"></a>
 Les fonctions de fenêtrage aussi appeler fonctions de partitionneemnts sont une famille d’outils extrêment puissant en Transct-SQL.  
 Elles permettent de faire face à des situations ou des curseurs et des sous requêtes seraient nécessaires.  
 

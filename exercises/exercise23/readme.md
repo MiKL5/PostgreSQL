@@ -1,4 +1,4 @@
-# **Les fonctions de types de chaîne de caractères `TRANSLATE`, `CONCAT`, `STRING_SPLIT`** <a href="../../"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"> </a>
+# **Les fonctions de types de chaîne de caractères `TRANSLATE`, `CONCAT`, `STRING_SPLIT`**<a href="https://github.com/MiKL5/PostgreSQL/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"></a>
 ## **`SPLIT`**
 ```sql
 -- Chercher la troisième valeur dans le tableau proposé

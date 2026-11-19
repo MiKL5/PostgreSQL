@@ -1,4 +1,4 @@
-# **Sélectionner et filtrer les données avec le WHERE** <a href="../../"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" align="right" height="64px"> </a>
+# **Sélectionner et filtrer les données avec le WHERE**<a href="https://github.com/MiKL5/PostgreSQL/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"></a>
 
 La clause `SELECT` permet la sélection et l'extraction des données en SQL.  
 À la fin la clause `WHERE` filtre.

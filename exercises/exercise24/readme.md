@@ -1,4 +1,4 @@
-# **La jointure `INNER JOIN`** <a href="../../"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"> </a>
+# **La jointure `INNER JOIN`**<a href="https://github.com/MiKL5/PostgreSQL/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"></a>
 Les jointures sont énormément utilisées en SQL et qssocient plusieurs tables en une requête.  
 Le but est d’obtenir un résultat combinant plusieurs tables efficaceemnet.  
 ```sql

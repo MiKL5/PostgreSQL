@@ -1,13 +1,12 @@
-# **PostgreSQL** <a href="https://github.com/MiKL5/PostgreSQL"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"> </a>
+# **PostgreSQL**<a href="https://github.com/MiKL5/PostgreSQL"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"></a>
 
 PostgreSQL, est un [système de gestion de base de données relationnel-objet](../ordbms) (SGBDRO) open source et gratuit. En d’autres termes, c’est un outil qui permet de stocker, organiser, manipuler et récupérer des données de manière efficace et structurée. Il se distingue par plusieurs caractéristiques clés :
 * Open source et gratuit  
-  Contrairement à de nombreux autres SGBDRO populaires, PostgreSQL est accessible à tous et ne nécessite aucune licence payante.
-  C’est un énorme avantage pour les individus et les organisations à but non lucratif qui ont besoin d’une solution de base de données fiable et économique.
+  Contrairement à de nombreux autres SGBDRO populaires, PostgreSQL est accessible à tous et ne nécessite aucune licence payante. C’est un énorme avantage pour les individus et les organisations à but non lucratif qui ont besoin d’une solution de base de données fiable et économique.
 * Stable et robuste  
   PostgreSQL est connu pour sa stabilité et sa fiabilité. Il est utilisé dans des applications critiques pour l’entreprise du monde entier et peut gérer des charges de travail importantes.  
 * Conformité et extensibilité SQL  
-  PostgreSQL prend en charge un large éventail de fonctionnalités SQL standard, ce qui facilite la migration à partir d’autres bases de données et la transition pour les développeurs familiers avec le [langage SQL](https://github.com/MiKL5/DS/tree/master/SQL). De plus, il permet d’étendre le langage avec des fonctions et des types de données personnalisés, offrant une grande flexibilité dans le stockage et la manipulation des données.  
+  PostgreSQL prend en charge un large éventail de fonctionnalités SQL standard, ce qui facilite la migration à partir d’autres bases de données et la transition pour les développeurs familiers avec le [langage SQL](https://github.com/MiKL5/PostgreSQL/tree/main/SQL). De plus, il permet d’étendre le langage avec des fonctions et des types de données personnalisés, offrant une grande flexibilité dans le stockage et la manipulation des données.  
 
 En plus des fonctionnalités standard d’un SGBDRO, PostgreSQL offre de nombreuses fonctionnalités avancées telles que :
 * La transaction ACID  

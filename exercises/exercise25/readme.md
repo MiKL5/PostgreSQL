@@ -1,4 +1,4 @@
-# **Les jointures `LEFT JOIN` et `RIGHT JOIN`** <a href="../../"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"> </a>
+# **Les jointures `LEFT JOIN` et `RIGHT JOIN`**<a href="https://github.com/MiKL5/PostgreSQL/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"></a>
 ## **La jointure `LEFT JOIN`**
 Il s’agit d’une jointure externe retournant tous les enregistrements de la table de gauche avec les valeurs concordantes à celle de droite.  
 Pour afficher les valeurs ne correspondants pas à celle de droite, il y a le filtre `IS NULL` avec la commande `WHERE`.

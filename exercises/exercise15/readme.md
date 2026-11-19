@@ -1,4 +1,4 @@
-# **Les fonctions d’agrégat `COUNT`, `SUM`, `GROUP BY`** <a href="../../"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"> </a>
+# **Les fonctions d’agrégat `COUNT`, `SUM`, `GROUP BY`**<a href="https://github.com/MiKL5/PostgreSQL/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"></a>
 ## **La fonction d’agrégat `COUNT`**
 Compter les upsets
 ```sql

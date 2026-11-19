@@ -1,4 +1,4 @@
-# **`DISTINCT` et les opérateurs de comparaison** <a href="../../"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"> </a>
+# **`DISTINCT` et les opérateurs de comparaison**<a href="https://github.com/MiKL5/PostgreSQL/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"></a>
 
 
 ## **La liste des personnes ayant moins de 22 ans**

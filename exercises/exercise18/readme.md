@@ -1,4 +1,4 @@
-# **Les commandes `UNION`, `UNION ALL`, `IF/ELSE`** <a href="../../"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"> </a>
+# **Les commandes `UNION`, `UNION ALL`, `IF/ELSE`**<a href="https://github.com/MiKL5/PostgreSQL/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"></a>
 ## **Les Unions**
 `UNION` est une ancienne syntaxe permettant de concaténer les résultats de plusieurs requêtes.  
 À condition que les deux sélections aient les même nombre de colonnes.  

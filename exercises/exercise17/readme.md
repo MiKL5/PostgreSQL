@@ -1,4 +1,4 @@
-# **Le `CASE ... WHEN ...`** <a href="../../"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"> </a>
+# **Le `CASE ... WHEN ...`**<a href="https://github.com/MiKL5/PostgreSQL/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"></a>
 Évalue une liste de conditions et retourne une expression de résultats possibles.
 ```sql
 -- Ajouter "Mme" pour une femme et "M." pour un homme

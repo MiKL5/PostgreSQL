@@ -1,4 +1,4 @@
-# Clé Étrangère (Foreign Key)
+# Clé Étrangère (Foreign Key)<a href="https://github.com/MiKL5/PostgreSQL/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"></a>
 Une clé étrangère (FK) est un concept fondamental dans les bases de données relationnelles. Elle établit une relation entre deux tables en garantissant l’intégrité référentielle. Voici une explication détaillée des points mentionnés dans le cours :
 
 1. **Intégrité Référentielle :**

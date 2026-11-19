@@ -1,4 +1,4 @@
-# **Les déclencheurs**  <a href="../../"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"> </a>
+# **Les déclencheurs**<a href="https://github.com/MiKL5/PostgreSQL/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"></a>
 Avec PostgreSQL est trigger (déclacheur) est une fonction invoquée automatiquement chaque fois qu’un événement associé à une table se produit.  
 Un événement avoir lieu à la suite d’un ’`SELECT`’, d’un ’`UPDATE`’, d’un ’`DELETE`’ ou d’un ’`TRUNCATE`’.  
 

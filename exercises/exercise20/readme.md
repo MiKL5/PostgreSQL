@@ -1,4 +1,4 @@
-# Les fonctions de types de chaîne de caractères ’`LENGHT`’, ’`REPLACE`’ et ’`SUBSTRING`’ <a href="../../"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"> </a>
+# Les fonctions de types de chaîne de caractères ’`LENGHT`’, ’`REPLACE`’ et ’`SUBSTRING`’<a href="https://github.com/MiKL5/PostgreSQL/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"></a>
 
 ## **Remplacer toutes les occurences d’une valeur de type chaîne spécifiée par une autre valeur de type de chaîne**
 ```sql

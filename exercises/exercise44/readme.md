@@ -1,4 +1,4 @@
-# **La [cascade d’intégrité référentielle](define)**  <a href="../../"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"> </a>
+# **La [cascade d’intégrité référentielle](define)** <a href="https://github.com/MiKL5/PostgreSQL/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"></a>
 Elle permet des mise à jour et suppression en cascade.
 ```sql
 -- Créer deux tables d'intégrité en cascade

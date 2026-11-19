@@ -1,4 +1,4 @@
-Les fonctions de partitionnement `NTILE/RANK` et `DENSE RANK` <a href="../../"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"> </a>
+Les fonctions de partitionnement `NTILE/RANK` et `DENSE RANK`<a href="https://github.com/MiKL5/PostgreSQL/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"></a>
 La fonction RANK() est similaire à ROW_NUMBER(), la syntaxe est la même
 ```sql
 -- utiliser 'ROW_NUMBER()' et 'RANK()' et `DENSE_RANK()`

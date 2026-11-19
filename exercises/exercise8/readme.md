@@ -1,4 +1,4 @@
-# **L’opérateur `LIKE`** <a href="../../"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"> </a>
+# **L’opérateur `LIKE`**<a href="https://github.com/MiKL5/PostgreSQL/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"></a>
 
 
 `LIKE` est souvent utilisé lors des requêtes avec ProstgreSQL et d’autres DBMS car, cette opérateur est assez puissant pour les affinités de recherches via `WHERE`.

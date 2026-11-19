@@ -1,4 +1,4 @@
-# **L’identité avec les tables** <a href="../../"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"> </a>
+# **L’identité avec les tables** <a href="https://github.com/MiKL5/PostgreSQL/"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"> </a>
 Deuis la version 10 PostgreSQL à intriduit la fonctionnalité ‘GENERATED AS IDENTITY’.  
 Cette contrainte attribue automatiquement une valeur unique à une colonne.  
 C’est utile pour les applications ayant besoin de gérer un autoincrément à une table pour retrouver la ligne lors d’une recharche.  

@@ -1,4 +1,4 @@
-# **Les fonctions de partitionnement `ROWS/RANGE UNBOUNDED PRECEDING` et `FIRST VALUES/LAST VALUES`** <a href="../../"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"> </a>
+# **Les fonctions de partitionnement `ROWS/RANGE UNBOUNDED PRECEDING` et `FIRST VALUES/LAST VALUES`**<a href="https://github.com/MiKL5/PostgreSQL/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"></a>
 > Définition :  
 > `LAG` accèdes aux données d’une ligne précédente dans le même jeu de résultat.  
 > `LEAD` accède aux données à partir d’une ligne ultérieure dans le même jeu de résultat.  

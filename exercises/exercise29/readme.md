@@ -1,4 +1,4 @@
-# **La jointure `LEFT JOIN` vs `NOT IN` vs `not exists`** <a href="../../"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"> </a>
+# **La jointure `LEFT JOIN` vs `NOT IN` vs `not exists`**<a href="https://github.com/MiKL5/PostgreSQL/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"></a>
 Il y a plusieurs manières de faire une `LEFT JOIN`.  
 Il s’agit de `NOT IN` et `NOT EXISTS`.
 ```sql

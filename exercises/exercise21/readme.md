@@ -1,4 +1,4 @@
-# Les fonctions de types de chaîne de caractères ’`OVERLAY`’, ’`POSITION`’ et ’`REVERSE`’ <a href="../../"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"> </a>
+# Les fonctions de types de chaîne de caractères ’`OVERLAY`’, ’`POSITION`’ et ’`REVERSE`’<a href="https://github.com/MiKL5/PostgreSQL/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"></a>
 ## **La fonction ’`OVERLAY`’**
 La fonction ’`OVERLAY`’ (couvrir/recouvrir) sert à replacer un texte ou chaîne de caractère par un autre texte ou sou-chaîne.
 ```sql

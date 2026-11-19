@@ -1,4 +1,4 @@
-# **La condition `HAVING`** <a href="../../"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"> </a>
+# **La condition `HAVING`**<a href="https://github.com/MiKL5/PostgreSQL/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"></a>
 Comme une cousin de ’`WHERE`’, car elle y est presque similaire.  
 Sa différence est de filtrer avec des fonctions telles que ’`SUM()`’.
 <!-- `GROUP BY` est toujours après `WHERE` et `GROUP BY` toujours après `GROUP BY`. -->

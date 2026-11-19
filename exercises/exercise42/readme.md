@@ -1,4 +1,4 @@
-# **La contrainte `PRIMARY KEY`**  <a href="../../"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"> </a>
+# **La contrainte `PRIMARY KEY`**<a href="https://github.com/MiKL5/PostgreSQL/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" align="right" height="64px"></a>
 La Clé primaire n’accepte ni les doublons, ni les `NULL`.  
 Une table ne peut en contenir qu’une.  
 Il est préférable d’en avoir une à chaque table.

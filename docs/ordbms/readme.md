@@ -1,4 +1,4 @@
-# **Système de Gestion de Base de Données Relationnel-Objet** <a href="https://github.com/MiKL5/PostgreSQL"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" align="right" height="64px"> </a>
+# **Système de Gestion de Base de Données Relationnel-Objet**<a href="https://github.com/MiKL5/PostgreSQL"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" align="right" height="64px"></a>
 
 Un système de gestion de base de données est un ensemble de logiciels qui servent à manipuler des bases de données. Dans un système de gestion de base de données relationnel-objet (SGBDRO) l’information est représentée sous forme d’objets comme dans la programmation orientée objet.
 
