@@ -67,7 +67,7 @@ ___
 <br><br><div align="center"><a href="docs/about"><img src="assets/elephant.jpg"></a>
 
 ___
-## **🔗 Voir aussi**</div>
+## **🔗 Sujets connexes**</div>
 [SQL Server](https://github.com/MiKL5/TSQL) <a href="https://github.com/MiKL5/TSQL"><img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Microsoft_SQL_Server_2025_icon.svg" alt="SQL Server" align="left" height="20px"></a>  
 [MongoDB](https://github.com/MiKL5/MongoDB) <a href="https://github.com/MiKL5/MongoDB"><img src="https://github.com/MiKL5/Business_Intelligence/raw/main/assets/mongodb_original_logo_icon_146424.svg" align="left" height="20px"> </a>
 
